@@ -17,12 +17,15 @@ We at GCETTS intive you to **Texatech** - our college's annual tech fest that br
 To view the event page, follow these steps:
 
 1. Clone this repository:
+   ```bash
    git clone https://github.com/AnuvabMaity/GCETTS-Texatech.git
 
-2. Install the necessary dependencies:
+3. Install the necessary dependencies:
+   ```bash
    npm install
 
-3. Start the development server:
+5. Start the development server:
+   ```bash
    npm run dev
 
 
